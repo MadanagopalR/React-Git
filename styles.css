@@ -1,0 +1,14 @@
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.buttonContainer{
+	padding:20px;
+}
+.marRight10{
+	margin-right: 10px;
+}
+.form-container{
+	width:30%;
+	margin:10px auto;
+}
